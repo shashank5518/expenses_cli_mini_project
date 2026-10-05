@@ -4,18 +4,40 @@ from pathlib import Path
 from src.analytics import total_by_category, total_by_month, total_expenses
 from src.filters import filter_by_category, filter_by_month
 from src.loader import load_expenses
-from src.validation import validate_file_type
+from src.validation import detect_encoding, is_utf8_encoding, validate_file_exists, validate_file_type
+from src.encoding import convert_to_utf8
 
 os.chdir('D:/Python/expenses_cli')
 
 
 def main():
-    file_path = Path("data/expenses_clean.csv")
+    file_path = Path("data/raw/expenses_latin1.csv")
+    validate_file_exists(file_path)
     validate_file_type(file_path)
     print("Valid File Type")
 
+    encoding, confidence = detect_encoding(file_path)
+    print(f"Detected encoding: {encoding}")
+    print(f"Confidence: {confidence:.2%}")
+
+    if is_utf8_encoding(encoding):
+        print("File is already UTF-8.")
+        output_path = file_path
+    else:
+        output_path = Path(
+            "data/processed/input_utf8.csv"
+        )
+
+        convert_to_utf8(
+            file_path,
+            encoding,
+            output_path,
+        )
+
+        print(f"Converted file to UTF-8: {output_path}")
+
     expenses = load_expenses(
-        file_path
+        output_path
     )
 
     total = total_expenses(expenses)
