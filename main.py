@@ -2,15 +2,20 @@ import os
 from pathlib import Path
 
 from src.analytics import total_by_category, total_by_month, total_expenses
-from src.loader import load_expenses
 from src.filters import filter_by_category, filter_by_month
+from src.loader import load_expenses
+from src.validation import validate_file_type
 
 os.chdir('D:/Python/expenses_cli')
 
 
 def main():
+    file_path = Path("data/expenses_clean.csv")
+    validate_file_type(file_path)
+    print("Valid File Type")
+
     expenses = load_expenses(
-        Path("data/expenses_clean.csv")
+        file_path
     )
 
     total = total_expenses(expenses)
