@@ -1,0 +1,382 @@
+date,description,category,amount,payment_method
+2026-08-24,Auto ride,Transport,153.01,Debit Card
+2026-01-24,Cafe coffee,Dining,1102.10,Cash
+2026-01-13,Amazon order,Shopping,"""3,696.56""",Debit Card
+2026-06-19,Cab to office,Transport,"""574.08""",UPI
+2026-07-24,Headphones,Shopping,1121.69,UPI
+2026-04-08,Concert pass,Entertainment,"""1,080.98""",Credit Card
+2026-06-16,Amazon order,Shopping,3258.09,Debit Card
+2026-02-01,Monthly rent,Rent,"""18,000.00""",Bank Transfer
+2026-03-21,Auto ride,Transport,,UPI
+2026-05-31,Blinkit order,Groceries,787.63,UPI
+2026-09-01,Monthly rent,Rent,18000.00,Bank Transfer
+2026-02-18,Cab to office,Transport,153.79,Cash
+2026-09-28,Lunch with team,Dining,"""794.72""",Cash
+06-Mar-2026,Lunch with team,Dining,1442.79,Cash
+2026-05-10,Streaming subscription,Subscriptions,649.00,Credit Card
+2026-05-21,Petrol,TRANSPORT,806.75,Credit Card
+2026-09-13,BigBasket order,Groceries,715.56,Cash
+2026-04-29,Clothes,Shopping,4687.84,Cash
+2026-04-17,Cab to office,Transport,610.91,Debit Card
+2026-06-15,Petrol,Transport,632.86,Debit Card
+2026-08-15,Milk and eggs,Groceries,1457.70,Debit Card
+2026-05-08,Mobile recharge,Utilities,399.00,UPI
+2026-02-03,BigBasket order,Groceries,1650.41,Credit Card
+2026-01-05,Online course,education,1683.48,UPI
+2026-03-18,Metro recharge,Transport,48.32,Credit Card
+2026-01-22,Auto ride,transport,235.99,UPI
+2026-04-23,Petrol,Transport,,Cash
+2026-04-25,Uber ride,  Transport ,405.63,Cash
+2026-07-07,Broadband,Utilities,999.00,UPI
+2026-01-18,Cab to office,Transport,292.13,Debit Card
+2026-01-19,Metro recharge,Transport,205.37,UPI
+2026-04-16,Home items,Shopping,333.61,Debit Card
+2026-07-15,Technical book,Education,915.55,UPI
+2026-07-10,Blinkit order,Groceries,1279.22,Cash
+2026-03-22,Kirana store,Groceries,1825.06,UPI
+2026-07-13,Cab to office,Transport,,Credit Card
+2026-04-25,Amazon order,Shopping,2522.92,Credit Card
+2026-01-08,Kirana store,Groceries,1070.88,UPI
+2026-08-27,Auto ride,Transport,₹817.57,Credit Card
+2026-07-21,Vegetable market,Groceries,"₹1,398.19",Credit Card
+2026-05-03,Weekend outing,Entertainment,₹876.74,Credit Card
+
+2026-06-18,Metro recharge,Transport,104.56,Cash
+2026-09-19,Uber ride,Transport,225.72,Debit Card
+2026-01-05,Blinkit order,Groceries,1659.77,UPI
+2026-06-09,Milk and eggs,Groceries,"₹2,079.18",UPI
+2026-06-10,Vegetable market,Groceries,616.34,Debit Card
+2026-05-10,Game purchase,  Entertainment ,"₹1,727.11",Cash
+11/07/2026,Cafe coffee,Dining,1047.22,Cash
+2026-05-14,Cab to office,Transport,191.48,Debit Card
+2026-03-28,Concert pass,Entertainment,1282.59,Cash
+2026-07-17,Petrol,transport,646.65,Cash
+2026-02-05,Blinkit order,  Groceries ,1502.49,Credit Card
+2026-07-19,Zomato order,Dining,"""763.39""",UPI
+2026-02-21,Lunch with team,Dining,1798.79,UPI
+2026-04-13,BigBasket order,groceries,1273.27,Debit Card
+2026-08-08,Mobile recharge,Utilities,399.00,UPI
+2026-05-16,Swiggy order,Dining,476.36,Debit Card
+2026-04-02,Amazon order,Shopping,1478.96,Cash
+2026-09-22,Kirana store,  Groceries ,903.04,UPI
+2026-05-11,Lunch with team,Dining,1550.88,Debit Card
+10-Feb-2026,Streaming subscription,  Subscriptions ,,Credit Card
+2026-06-27,Online course,Education,3113.85,Cash
+2026-05-09,Milk and eggs,GROCERIES,1861.57,UPI
+2026-06-20,Lunch with team,Dining,540.62,Credit Card
+2026-03-29,Dinner out,Dining,721.12,UPI
+2026-07-21,Gym membership,HEALTH,378.90,Cash
+2026-03-20,Blinkit order,groceries,2166.90,UPI
+2026-09-24,Metro recharge,  Transport ,₹402.03,UPI
+2026-08-06,Milk and eggs,Groceries,311.89,Credit Card
+2026-04-23,Swiggy order,Dining,600.02,Debit Card
+2026-04-01,Monthly rent,rent,18000.00,Bank Transfer
+2026-06-02,Auto ride,Transport,239.07,Cash
+2026-08-20,Uber ride,Transport,729.66,Credit Card
+2026-04-10,Streaming subscription,Subscriptions,649.00,Credit Card
+2026-07-21,Petrol,Transport,755.64,Debit Card
+2026-02-08,Mobile recharge,  Utilities ,399.00,UPI
+2026-05-09,Headphones,Shopping,,Debit Card
+2026-04-03,Game purchase,Entertainment,1154.20,Cash
+19-Aug-2026,Online course,Education,3046.40,Cash
+2026-01-21,Dinner out,Dining,407.51,Credit Card
+2026-02-08,Metro recharge,Transport,792.06,Cash
+2026-08-10,Music subscription,Subscriptions,119.00,Credit Card
+2026-05-17,Lunch with team,Dining,1712.75,Credit Card
+01/01/2026,Vegetable market,Groceries,1670.18,Credit Card
+2026-06-15,Swiggy order,DINING,328.91,Cash
+2026-05-27,Petrol,Transport,461.57,Debit Card
+2026-09-25,Cab to office,Transport,166.90,UPI
+2026-02-10,Music subscription,Subscriptions,₹119.00,Credit Card
+2026-02-08,Petrol,Transport,714.77,Credit Card
+2026-09-14,Home items,Shopping,2081.38,Debit Card
+2026-03-03,Blinkit order,Groceries,1252.15,Debit Card
+2026-07-03,Online course,Education,"₹1,905.69",UPI
+2026-09-18,Uber ride,Transport,255.56,UPI
+2026-09-02,Vegetable market,Groceries,1762.93,Credit Card
+2026-02-20,Gym membership,Health,383.65,Debit Card
+2026-06-08,Mobile recharge,Utilities,399.00,UPI
+2026-09-27,Lab test,Health,393.29,UPI
+2026-08-04,Amazon order,SHOPPING,4146.57,UPI
+2026-06-10,Short row only
+2026-08-07,Broadband,Utilities,999.00,UPI
+2026-09-28,Concert pass,Entertainment,1705.84,Cash
+2026-02-17,Concert pass,Entertainment,"""2,314.59""",UPI
+2026-02-08,Cab to office,Transport,204.77,Cash
+2026-02-22,Online course,Education,2949.91,Debit Card
+2026-05-31,BigBasket order,Groceries,"""656.93""",Credit Card
+2026-08-31,Cafe coffee,Dining,1540.85,Debit Card
+2026-08-22,Milk and eggs,Groceries,169.26,Debit Card
+2026-03-04,Gym membership,Health,2649.56,Credit Card
+2026-05-14,Shoes,Shopping,5980.80,Debit Card
+2026-03-04,Gym membership,Health,"₹1,850.23",Debit Card
+2026-08-29,Metro recharge,TRANSPORT,579.61,Debit Card
+2026-03-19,Gym membership,Health,2893.22,UPI
+2026-02-17,Vegetable market,GROCERIES,1075.55,Credit Card
+2026-03-22,Gym membership,Health,"₹2,946.28",UPI
+2026-01-05,Dinner out,Dining,565.00,Debit Card
+2026-01-18,Clothes,Shopping,"""5,206.44""",UPI
+13/09/2026,Cafe coffee,Dining,1790.97,Debit Card
+2026-05-21,BigBasket order,Groceries,290.67,UPI
+2026-03-07,Auto ride,Transport,631.25,Cash
+2026-06-02,Auto ride,Transport,239.07,Cash
+2026-06-07,Broadband,Utilities,999.00,UPI
+
+2026-01-08,Mobile recharge,Utilities,399.00,UPI
+03-Feb-2026,Blinkit order,Groceries,843.08,Credit Card
+2026-09-09,Uber ride,transport,778.23,Credit Card
+2026-07-15,Dinner out,Dining,1687.19,Credit Card
+2026-09-13,Clothes,Shopping,,Debit Card
+2026-08-01,Monthly rent,Rent,18000.00,Bank Transfer
+2026-03-12,Zomato order,Dining,1430.60,Credit Card
+2026-01-07,Zomato order,dining,1221.14,Cash
+2026-06-25,Uber ride,  Transport ,218.70,Debit Card
+2026-02-03,Auto ride,Transport,818.66,UPI
+2026-04-01,Blinkit order,Groceries,1215.84,Credit Card
+2026-07-31,Cafe coffee,dining,182.19,Debit Card
+2026-02-30,Impossible date,Dining,450.00,UPI
+2026-02-08,Metro recharge,Transport,46.18,Credit Card
+2026-04-20,Cafe coffee,Dining,1489.21,Cash
+2026-04-25,Swiggy order,Dining,"""535.36""",Cash
+2026-07-10,Streaming subscription,SUBSCRIPTIONS,649.00,Credit Card
+28-Jul-2026,Petrol,Transport,100.04,Debit Card
+2026-02-28,Shoes,Shopping,1359.20,UPI
+2026-06-03,Zomato order,Dining,1124.70,Debit Card
+2026-08-15,Game purchase,Entertainment,1047.75,Cash
+2026-06-26,Auto ride,Transport,524.04,UPI
+2026-09-10,Streaming subscription,Subscriptions,649.00,Credit Card
+2026-05-11,Swiggy order,Dining,168.22,Credit Card
+2026-07-26,Gym membership,Health,2912.23,Cash
+2026-03-09,Metro recharge,Transport,818.59,UPI
+2026-08-30,Clothes,shopping,3777.47,Cash
+2026-08-31,Dinner out,Dining,246.50,Cash
+2026-09-10,Music subscription,  Subscriptions ,119.00,Credit Card
+2026-08-06,Cafe coffee,Dining,457.34,Debit Card
+2026-07-16,Cab to office,Transport,249.61,Credit Card
+2026-05-21,Weekend outing,entertainment,1837.24,UPI
+2026-06-26,Cafe coffee,Dining,636.79,Debit Card
+2026-01-27,Swiggy order,Dining,₹173.93,Cash
+2026-08-21,Doctor consultation,Health,1313.64,UPI
+2026-04-05,Cab to office,transport,729.22,Debit Card
+2026-09-15,Cab to office,Transport,473.30,UPI
+2026-04-15,Vegetable market,  Groceries ,1055.66,Cash
+2026-09-27,Milk and eggs,Groceries,1153.16,Debit Card
+2026-09-15,Kirana store,Groceries,"₹2,098.64",UPI
+2026-06-23,Exam fee,Education,2133.24,Cash
+2026-09-24,Online course,Education,1678.79,UPI
+2026-05-17,Metro recharge,Transport,596.89,Cash
+2026-01-03,Auto ride,Transport,366.74,Debit Card
+2026-07-28,Cab to office,transport,167.79,Cash
+2026-07-03,BigBasket order,Groceries,610.64,Cash
+2026-03-29,Dinner out,Dining,812.65,Debit Card
+2026-05-14,Cafe coffee,dining,1507.23,Debit Card
+2026-04-15,Cab to office,Transport,396.42,Credit Card
+2026-05-23,Cab to office,Transport,704.33,UPI
+2026-09-01,Metro recharge,transport,189.85,Credit Card
+2026-01-20,Metro recharge,Transport,267.49,Cash
+20/03/2026,Online course,  Education ,3941.67,Cash
+2026-09-03,Blinkit order,Groceries,1508.68,UPI
+2026-03-22,Milk and eggs,Groceries,N/A,Debit Card
+2026-07-01,Monthly rent,Rent,18000.00,Bank Transfer
+06-Jun-2026,Amazon order,  Shopping ,5982.59,Cash
+2026-03-12,Milk and eggs,GROCERIES,734.22,Debit Card
+2026-03-10,Streaming subscription,Subscriptions,"""649.00""",Credit Card
+2026-02-05,Electricity bill,Utilities,2126.00,UPI
+2026-04-27,Doctor consultation,Health,1482.06,UPI
+2026-09-12,Uber ride,Transport,719.39,Debit Card
+2026-09-11,Lunch with team,Dining,1141.94,Credit Card
+2026-09-05,Electricity bill,Utilities,2241.00,UPI
+2026-07-09,Kirana store,Groceries,1275.90,Cash
+2026-08-20,Shoes,shopping,"₹5,340.14",Debit Card
+2026-04-15,Technical book,Education,1509.33,Debit Card
+2026-08-24,Lunch with team,DINING,1582.27,Cash
+2026-01-08,Concert pass,Entertainment,2493.85,Cash
+2026-08-21,Kirana store,groceries,2122.16,Cash
+2026-07-31,Lab test,HEALTH,1052.48,UPI
+2026-07-02,Kirana store,  Groceries ,534.54,Cash
+17/02/2026,Petrol,Transport,244.68,Credit Card
+2026-06-10,Petrol,TRANSPORT,779.74,Debit Card
+2026-02-16,Kirana store,Groceries,189.93,Debit Card
+2026-05-10,Music subscription,Subscriptions,119.00,Credit Card
+2026-05-31,BigBasket order,Groceries,1615.78,Credit Card
+2026-01-31,Gym membership,Health,2207.96,Credit Card
+2026-07-29,BigBasket order,Groceries,1581.41,UPI
+2026-01-18,Blinkit order,Groceries,557.62,Cash
+2026-04-08,Mobile recharge,Utilities,399.00,UPI
+2026-06-27,Milk and eggs,Groceries,283.95,UPI
+2026-01-28,Metro recharge,TRANSPORT,₹240.20,Cash
+2026-06-03,Auto ride,Transport,631.15,Credit Card
+2026-05-05,Electricity bill,UTILITIES,2440.00,UPI
+2026-08-08,Auto ride,  Transport ,367.97,Debit Card
+2026-06-04,Technical book,Education,3473.61,Cash
+2026-07-10,Cab to office,Transport,664.40,Cash
+2026-06-10,Streaming subscription,Subscriptions,649.00,Credit Card
+2026-01-09,Cafe coffee,dining,₹231.20,Debit Card
+2026-04-02,Technical book,  Education ,"₹1,262.58",Credit Card
+2026-04-11,Lunch with team,Dining,N/A,Credit Card
+04/08/2026,Doctor consultation,Health,819.18,Cash
+2026-05-30,Milk and eggs,Groceries,789.51,Cash
+2026-01-05,Auto ride,Transport,"""225.17""",UPI
+2026-08-19,Vegetable market,Groceries,1547.69,Credit Card
+2026-01-10,Music subscription,Subscriptions,119.00,Credit Card
+2026-02-26,Cab to office,Transport,780.76,UPI
+2026-07-02,Online course,EDUCATION,1500.19,Debit Card
+2026-02-04,Petrol,Transport,123.36,Debit Card
+2026-08-03,Lunch with team,Dining,1448.35,Debit Card
+2026-04-29,Clothes,Shopping,4687.84,Cash
+2026-03-15,Blinkit order,Groceries,"₹1,423.38",UPI
+2026-03-01,Uber ride,Transport,326.86,Debit Card
+2026-06-02,Blinkit order,groceries,2147.30,Debit Card
+2026-08-12,Exam fee,Education,2780.80,Cash
+2026-09-22,Technical book,Education,752.26,Cash
+2026-06-21,Uber ride,Transport,630.35,Credit Card
+2026-08-26,Cab to office,Transport,"""419.11""",Debit Card
+2026-05-16,Concert pass,Entertainment,1476.91,Cash
+22/04/2026,Kirana store,GROCERIES,1888.43,Debit Card
+2026-06-25,Petrol,transport,489.41,Cash
+2026-02-13,Kirana store,Groceries,2190.06,Cash
+2026-07-21,BigBasket order,Groceries,1056.18,Credit Card
+2026-01-07,Blinkit order,Groceries,N/A,UPI
+2026-08-22,BigBasket order,Groceries,,Cash
+2026-03-05,Swiggy order,dining,190.27,UPI
+2026-03-08,Mobile recharge,Utilities,399.00,UPI
+05-Jan-2026,Electricity bill,Utilities,2209.00,UPI
+2026-02-08,Blinkit order,Groceries,268.75,UPI
+2026-03-05,Electricity bill,Utilities,1710.00,UPI
+2026-04-24,Zomato order,Dining,1567.31,Debit Card
+2026-05-12,Home items,Shopping,"₹4,306.27",Debit Card
+2026-09-23,Lunch with team,Dining,1648.30,UPI
+2026-09-07,Broadband,Utilities,999.00,UPI
+19/01/2026,BigBasket order,groceries,1014.94,UPI
+2026-09-22,Uber ride,Transport,₹785.15,UPI
+2026-06-26,Auto ride,Transport,524.04,UPI
+2026-05-07,Broadband,Utilities,999.00,UPI
+2026-05-24,Doctor consultation,Health,"₹1,677.21",Credit Card
+24/05/2026,Kirana store,groceries,1255.81,Credit Card
+2026-02-13,Doctor consultation,  Health ,491.68,UPI
+2026-04-22,Milk and eggs,Groceries,987.21,Debit Card
+2026-03-26,Dinner out,Dining,1683.77,Debit Card
+2026-03-06,Cab to office,Transport,677.46,Cash
+2026-08-07,Petrol,Transport,899.46,UPI
+2026-01-27,Exam fee,Education,2664.11,Credit Card
+2026-01-08,Mobile recharge,Utilities,399.00,UPI
+2026-03-09,Uber ride,Transport,282.31,Debit Card
+2026-01-18,Petrol,Transport,147.35,UPI
+2026-02-09,Blinkit order,Groceries,,Cash
+2026-09-05,Amazon order,Shopping,"₹4,214.88",UPI
+09-Aug-2026,Zomato order,Dining,"₹1,655.60",Debit Card
+not a date,Garbage row,Misc,100,Cash
+2026-05-20,BigBasket order,Groceries,1394.86,Credit Card
+2026-06-16,Gym membership,Health,"₹1,141.69",Debit Card
+2026-07-22,Dinner out,Dining,1451.22,Cash
+2026-09-16,Auto ride,transport,₹425.52,UPI
+2026-01-03,Movie tickets,ENTERTAINMENT,1938.30,Credit Card
+2026-02-07,Movie tickets,Entertainment,882.43,UPI
+10/01/2026,Streaming subscription,Subscriptions,649.00,Credit Card
+2026-08-29,Metro recharge,TRANSPORT,579.61,Debit Card
+2026-02-06,Zomato order,dining,756.67,Debit Card
+2026-03-29,Technical book,Education,2433.38,UPI
+2026-07-20,Gym membership,Health,345.00,Credit Card
+2026-07-10,Music subscription,Subscriptions,119.00,Credit Card
+2026-08-01,Metro recharge,Transport,526.70,Cash
+2026-09-15,Zomato order,Dining,969.33,UPI
+2026-05-29,Zomato order,dining,877.35,Cash
+2026-08-31,Cafe coffee,Dining,1540.85,Debit Card
+2026-09-08,Mobile recharge,Utilities,399.00,UPI
+2026-03-09,Metro recharge,Transport,"""139.27""",Credit Card
+2026-04-14,Technical book,Education,802.09,Credit Card
+2026-02-25,Dinner out,Dining,1545.81,Cash
+2026-08-14,Blinkit order,Groceries,448.42,Cash
+2026-04-02,Petrol,Transport,250.56,UPI
+2026-03-09,Home items,Shopping,5226.81,Debit Card
+2026-08-31,Lab test,Health,256.05,UPI
+2026-06-10,Music subscription,Subscriptions,"""119.00""",Credit Card
+2026-09-02,Vegetable market,Groceries,1565.08,Cash
+2026-04-08,Lab test,Health,927.87,UPI
+2026-04-05,Electricity bill,utilities,"""2,351.00""",UPI
+2026-05-18,Auto ride,Transport,408.41,UPI
+2026-04-10,Blinkit order,Groceries,580.87,Debit Card
+2026-08-05,Electricity bill,utilities,1634.00,UPI
+2026-04-13,Lab test,health,1107.97,Credit Card
+2026-08-10,Streaming subscription,Subscriptions,649.00,Credit Card
+2026-04-18,Milk and eggs,Groceries,410.94,Cash
+2026-02-10,Weekend outing,Entertainment,,Credit Card
+2026-07-22,Milk and eggs,Groceries,1932.20,Cash
+2026-09-09,Cafe coffee,Dining,1168.85,Debit Card
+2026-09-07,Cab to office,transport,99.00,Credit Card
+2026-06-04,Dinner out,Dining,1034.86,Debit Card
+2026-02-16,Zomato order,DINING,928.68,UPI
+19-Sep-2026,Exam fee,education,3839.51,Debit Card
+2026-03-05,BigBasket order,Groceries,2063.18,Credit Card
+2026-06-16,Vegetable market,Groceries,1052.96,UPI
+2026-07-09,Milk and eggs,Groceries,812.71,UPI
+2026-06-05,Electricity bill,  Utilities ,1105.00,UPI
+2026-02-05,Auto ride,Transport,402.82,Cash
+2026-03-18,Auto ride,Transport,70.98,Credit Card
+2026-02-02,Auto ride,Transport,386.25,UPI
+08/04/2026,Metro recharge,Transport,166.91,UPI
+25/01/2026,Milk and eggs,Groceries,1801.93,Debit Card
+2026-02-07,Vegetable market,Groceries,2054.27,Debit Card
+2026-06-08,Petrol,Transport,141.87,Credit Card
+2026-03-01,Amazon order,Shopping,4062.19,Debit Card
+2026-04-30,Pharmacy,Health,1272.96,UPI
+2026-07-28,Movie tickets,Entertainment,2143.59,Cash
+2026-07-30,Auto ride,Transport,717.44,UPI
+2026-06-28,Kirana store,Groceries,175.14,Cash
+2026-03-14,Refund - headphones,Shopping,-2499.00,Credit Card
+24/09/2026,Cab to office,TRANSPORT,713.58,Debit Card
+2026-06-01,Monthly rent,Rent,"₹18,000.00",Bank Transfer
+02-Apr-2026,Metro recharge,transport,519.37,Cash
+01-Mar-2026,Monthly rent,Rent,18000.00,Bank Transfer
+2026-05-26,Metro recharge,Transport,886.11,Debit Card
+2026-03-10,Music subscription,Subscriptions,119.00,Credit Card
+2026-07-11,Zomato order,Dining,1371.10,Cash
+2026-01-30,Exam fee,Education,,Debit Card
+2026-08-17,Swiggy order,Dining,963.02,Credit Card
+2026-09-29,Home items,Shopping,1602.41,Cash
+2026-06-22,Uber ride,Transport,109.82,Credit Card
+2026-04-27,Zomato order,Dining,1643.52,Credit Card
+2026-05-01,Monthly rent,  Rent ,18000.00,Bank Transfer
+2026-03-30,BigBasket order,Groceries,1691.32,UPI
+2026-05-16,Swiggy order,Dining,476.36,Debit Card
+2026-02-24,Movie tickets,Entertainment,"""921.29""",Cash
+2026-04-22,Vegetable market,Groceries,1683.68,Debit Card
+2026-01-04,Headphones,SHOPPING,1972.95,Cash
+2026-03-07,Broadband,Utilities,999.00,UPI
+2026-07-08,Mobile recharge,utilities,"""399.00""",UPI
+2026-02-14,Metro recharge,Transport,393.55,UPI
+05/07/2026,Electricity bill,Utilities,1080.00,UPI
+2026-06-09,Zomato order,Dining,960.79,Cash
+2026-04-03,Uber ride,Transport,743.84,Debit Card
+2026-05-24,Exam fee,Education,2091.53,Debit Card
+2026-06-25,Game purchase,Entertainment,1746.25,UPI
+2026-06-27,Lunch with team,dining,"""358.96""",Credit Card
+07-Feb-2026,Broadband,Utilities,999.00,UPI
+2026-03-30,Dinner out,Dining,1682.20,Credit Card
+2026-01-07,Broadband,UTILITIES,999.00,UPI
+2026-01-22,Home items,Shopping,5343.29,Debit Card
+2026-08-31,Blinkit order,GROCERIES,858.41,Debit Card
+2026-08-16,Vegetable market,Groceries,"""2,021.30""",Credit Card
+2026-01-01,Monthly rent,rent,18000.00,Bank Transfer
+2026-04-21,Zomato order,Dining,521.93,UPI
+2026-04-12,Kirana store,GROCERIES,1034.16,Debit Card
+26/04/2026,Vegetable market,Groceries,1997.42,UPI
+2026-09-21,Lunch with team,Dining,1739.56,Cash
+2026-04-08,Uber ride,Transport,733.64,UPI
+2026-01-15,Cafe coffee,Dining,757.49,Credit Card
+2026-08-23,Petrol,  Transport ,293.90,Debit Card
+08/05/2026,BigBasket order,Groceries,408.75,Credit Card
+2026-04-10,Music subscription,Subscriptions,119.00,Credit Card
+2026-05-15,Kirana store,Groceries,1583.90,Credit Card
+2026-05-09,Swiggy order,Dining,1598.94,UPI
+2026-08-20,Uber ride,Transport,255.54,UPI
+02-Apr-2026,Metro recharge,transport,519.37,Cash
+10/03/2026,Headphones,Shopping,4977.06,Credit Card
+2026-04-07,Broadband,Utilities,₹999.00,UPI
+2026-01-21,Weekend outing,Entertainment,567.96,UPI
+2026-01-22,Lunch with team,Dining,664.79,Credit Card
+2026-06-23,Milk and eggs,Groceries,"""2,085.38""",UPI
+2026-01-09,Auto ride,Transport,429.93,Credit Card
+2026-05-20,Cab to office,transport,,Cash
+2026-01-12,Auto ride,Transport,345.53,UPI
+2026-06-01,Vegetable market,Groceries,"""1,601.44""",Debit Card
